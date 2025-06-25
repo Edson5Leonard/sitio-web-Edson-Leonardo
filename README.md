@@ -14,3 +14,8 @@ Abre el archivo con visual estudio con "code nombre-de-la-carpeta".
 - Cómo usar Git para controlar versiones.
 - Cómo documentar con README.md.
 - Cómo crear ramas y trabajar ordenadamente.
+
+
+
+
+##Haz clip aqui para ver el sitio web: 
